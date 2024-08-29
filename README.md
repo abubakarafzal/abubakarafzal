@@ -6,7 +6,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack SQA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack SQA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Developer Engineer in Test and contributing to automation for multiple frameworks for web,mobile and api.
 - 🌱 Exploring Technical Content Writing.
